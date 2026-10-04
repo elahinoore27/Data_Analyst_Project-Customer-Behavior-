@@ -71,8 +71,7 @@ customer-shopping-behaviour-analysis/
 ├── Customer_shopping_Behaviour_Analysis.ipynb     # Python EDA, cleaning, and PostgreSQL load
 ├── customer_behavior_sql_queries.sql               # Ten PostgreSQL business queries
 ├── customer_behavior_dashboard.pbix                # Power BI dashboard
-├── report/                                         # Final written report (add when publishing)
-└── presentation/                                   # Gamma presentation or exported slides (add when publishing)
+└── presentation/                                   # Gamma presentation or exported slides 
 ```
 
 ## How to run
