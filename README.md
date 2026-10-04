@@ -119,7 +119,3 @@ Open `customer_behavior_dashboard.pbix` in Power BI Desktop. If prompted, update
 - Practical data cleaning and feature engineering with Python
 - Analytical SQL using aggregates, subqueries, common table expressions, and window functions
 - Clear dashboarding and business storytelling with Power BI and Gamma
-
-## Contact
-
-Feel free to connect or reach out with feedback, questions, or collaboration opportunities.
