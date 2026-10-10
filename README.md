@@ -1,6 +1,6 @@
 # Customer Shopping Behaviour Analysis
 
-An end-to-end data analytics project that turns customer-shopping records into practical business insights. The workflow covers Python-based data preparation and exploratory analysis, PostgreSQL queries, an interactive Power BI dashboard, a written report, and a Gamma presentation for stakeholders.
+An end-to-end data analytics project that turns customer-shopping records into practical business insights. The workflow covers Python-based data preparation and exploratory analysis, PostgreSQL queries, an interactive Power BI dashboard.
 
 ## Project overview
 
@@ -59,9 +59,9 @@ The following figures are reproducible from the supplied dataset:
 - Male customers account for **$157,890** in recorded revenue; this should be interpreted alongside the larger number of male records in the dataset.
 - Subscribers and non-subscribers have very similar average purchase amounts (**$59.49** and **$59.87**, respectively), so the data does not show a clear subscriber spend advantage.
 
-## Dashboard and reporting
+## Dashboard
 
-The Power BI dashboard is designed to make customer and sales patterns easy to explore. It supports analysis by category, gender, age group, subscription status, shipping type, discounts, and customer purchase behaviour. The report and Gamma presentation translate these findings into an executive-friendly narrative and recommendations.
+The Power BI dashboard is designed to make customer and sales patterns easy to explore. It supports analysis by category, gender, age group, subscription status, shipping type, discounts, and customer purchase behaviour. 
 
 ## Project files
 
